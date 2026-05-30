@@ -4,7 +4,16 @@
 
 # Hi /ᐠ｡ꞈ｡ᐟ✿\
 
+[![ Pronouns  ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&labelColor=21262d&color=1f6feb)]()
 [![ Languages ](https://img.shields.io/badge/[%20RU%20|%20EN%20]-informational?style=flat-square&labelColor=21262d&color=58a6ff)]()
+
+<br>
+
+.𖥔 ݁ ˖💻────.✦ Cyber Security Analyst <br>
+.𖥔 (•ө•)♡──  . ݁ ˖ [DUCKERZ](https://duckerz.ru/) co-owner <br>
+..𖥔 🛸───.𖥔 ݁ ˖  ݁Sometimes I make silly little things <br>
+.𖥔 ݁ ˖⚔️── ˖  ݁⊹ ࣪ CTF · labs · challenges <br>
+♡⊹ ࣪ ˖⌨️── .✦ hacking · coding · learning
 
 <br>
 
@@ -21,15 +30,6 @@
 
 <br>
 
-## GitHub
-
-<div align="left">
-  <img height="160" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Bazzzber&show_icons=true&hide_border=true&bg_color=21262d&title_color=58a6ff&icon_color=1f6feb&text_color=eeeeee" />
-  <img height="160" alt="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazzzber&layout=compact&hide_border=true&bg_color=21262d&title_color=58a6ff&text_color=eeeeee" />
-</div>
-
-<br>
-
 ## Contacts
 
 <div align="left">
@@ -38,6 +38,12 @@
   </a>&nbsp;
   <a href="mailto:bazzzber@duckerz.ru">
     <img width="36" height="36" alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/gmail.svg" />
+  </a>&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561199512040527">
+    <img width="36" height="36" alt="Steam" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/steam.svg" />
+  </a>&nbsp;
+  <a href="https://vk.com/vv.varvar">
+    <img width="36" height="36" alt="VK" src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/icons/vk.svg" />
   </a>
 </div>
 
