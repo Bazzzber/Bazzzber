@@ -5,7 +5,6 @@
 # Hi /ᐠ｡ꞈ｡ᐟ✿\
 [![ Pronouns  ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&labelColor=21262d&color=1f6feb)]()
 [![ Languages ](https://img.shields.io/badge/[%20RU%20|%20EN%20]-informational?style=flat-square&labelColor=21262d&color=58a6ff)]()
-
 <br>
 .𖥔 ݁ ˖💻────.✦ Cyber Security Analyst <br>
 .𖥔 (•ө•)♡──  . ݁ ˖ [DUCKERZ](https://duckerz.ru/) co-owner <br>
