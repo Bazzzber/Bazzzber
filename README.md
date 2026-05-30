@@ -7,13 +7,11 @@
 [![ Languages ](https://img.shields.io/badge/[%20RU%20|%20EN%20]-informational?style=flat-square&labelColor=21262d&color=58a6ff)]()
 
 <br>
-
 .𖥔 ݁ ˖💻────.✦ Cyber Security Analyst <br>
 .𖥔 (•ө•)♡──  . ݁ ˖ [DUCKERZ](https://duckerz.ru/) co-owner <br>
 ..𖥔 🛸───.𖥔 ݁ ˖  ݁Sometimes I make silly little things <br>
 .𖥔 ݁ ˖⚔️── ˖  ݁⊹ ࣪ CTF · labs · challenges <br>
 ♡⊹ ࣪ ˖⌨️── .✦ hacking · coding · learning
-
 <br>
 
 ## Stack
@@ -26,7 +24,6 @@
 [![ Linux  ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=21262d&color=424242&label=OS&message=Linux&logo=linux)]()
 [![ Docker ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=21262d&color=424242&label=Tool&message=Docker&logo=docker)]()
 [![ Git    ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=21262d&color=424242&label=Tool&message=Git&logo=git)]()
-
 <br>
 
 ## Contacts
