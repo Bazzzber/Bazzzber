@@ -3,7 +3,6 @@
 </p>
 
 # Hi /ᐠ｡ꞈ｡ᐟ✿\
-
 [![ Pronouns  ](https://img.shields.io/badge/[%20She%20/%20Her%20]-informational?style=flat-square&labelColor=21262d&color=1f6feb)]()
 [![ Languages ](https://img.shields.io/badge/[%20RU%20|%20EN%20]-informational?style=flat-square&labelColor=21262d&color=58a6ff)]()
 
@@ -16,6 +15,7 @@
 ♡⊹ ࣪ ˖⌨️── .✦ hacking · coding · learning
 
 <br>
+
 ## Stack
 
 [![ Python     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=21262d&color=1f6feb&label=Code&message=Python&logo=python)]()
@@ -28,6 +28,7 @@
 [![ Git    ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=21262d&color=424242&label=Tool&message=Git&logo=git)]()
 
 <br>
+
 ## Contacts
 
 <div align="left">
